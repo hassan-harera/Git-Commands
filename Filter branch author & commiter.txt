@@ -1,5 +1,5 @@
 git filter-branch -f --env-filter "
-    GIT_COMMITTER_NAME='hassan-arera'
+    GIT_COMMITTER_NAME='hassan-harera'
     GIT_COMMITTER_EMAIL='hassan.shaban.harera@gmail.com'
     GIT_AUTHOR_NAME='hassan-harera'
     GIT_AUTHOR_EMAIL='hassan.shaban.harera@gmail.com'
